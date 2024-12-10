@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*similarity
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
